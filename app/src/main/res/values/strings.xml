@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuizApp-SE1</string>
+    <string name="select">Select Entity</string>
+
+    <string-array name="cnames">
+        <item>CSE001</item>
+        <item>CSE002</item>
+        <item>CSE003</item>
+        <item>CSE004</item>
+        <item>CSE0056</item>
+    </string-array>
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_CourseApproval">CourseApproval</string>
+</resources>
